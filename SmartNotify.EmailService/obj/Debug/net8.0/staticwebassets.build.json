@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "j3gldsO9WdD/D4oRQKUlZcJDV5jzsurmPxeQFxPG2E0=",
+  "Source": "SmartNotify.EmailService",
+  "BasePath": "_content/SmartNotify.EmailService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
